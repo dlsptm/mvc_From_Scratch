@@ -1,0 +1,5 @@
+robots.txt => un fichier demandant à google de ne pas indexé les pages non-souhaitées
+
+Trait vs Class = extends marche qu'une fois tandis que Trait marche pour plusieurs en utilisant le use
+
+1h45
