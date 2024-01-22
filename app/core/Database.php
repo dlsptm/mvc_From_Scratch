@@ -26,5 +26,3 @@ Trait Database {
     return false; 
   }
 }
-
-
